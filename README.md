@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1>Hi, I'm p3tsh0p! <br/><a href="https://github.com/p3tsh0p">Junior Sys Admin</a>, <a href="https://www.linkedin.com/">Cybersecurity Student</a> & <a href="https://www.medium.com/p3tsh0p">IT Professional</a></h1>
 
-<!--
-**p3tsh0p/p3tsh0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Home Lab</b>
+  - [Hybrid Active Directory Home Lab](https://github.com/p3tsh0p/repos)
+  - [Configuring SIEM in Azure](https://github.com/p3tsh0p/repos)
+  - [Linux Automation - Ansible](https://github.com/p3tsh0p/repos)
+- <b>Hosting Services</b>
+  - [Family Ticket System](https://github.com/p3sh0p/repos)
+  - [File Cloud Server](https://github.com/p3sh0p/repos)
+  - [NTFY - System Push Notifications](https://github.com/p3sh0p/repos)
+  - [Guacamole - Browser Remote Connect](https://github.com/p3sh0p/repos)
+- <b>PowerShell</b>
+  - [Sample Project](https://github.com/p3sh0p/repos)
+- <b>Python</b>
+  - [Sample Project](https://github.com/p3sh0p/repos)
+    
+<h2>📚 Case Studies:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Networking</b>
+  - [Subnetting](https://medium.com/@p3tsh0p)
+- <b>Workstation</b>
+  - [Home Desktop Configuration](https://medium.com/@p3tsh0p)
+- <b>Data Security</b>
+  - [Encrpyt All The Things](https://medium.com/@p3tsh0p)
+  
+<h2>📄 Certifications:</h2>
+
+- <b>CompTIA</b>
+  - [A+](https://www.comptia.org/certifications/a) (In Progress: Projected October 2023)
+ 
+- <b>Google</b>
+  - [Cybersecurity Professional](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none) (In Progress)
+
+<h2> 🤳 Connect with me:</h2>
+
+- [Twitter](https://www.twitter.com/p3tsh0p_)
+- [Medium](https://wwww.medium.com/@p3tsh0p)
+<!-- - [Youtube](https://www.youtube.com/) -->
