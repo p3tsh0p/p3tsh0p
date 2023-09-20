@@ -6,7 +6,7 @@
   - [Hybrid Active Directory Home Lab](https://github.com/p3tsh0p/repos)
   - [Configuring SIEM in Azure](https://github.com/p3tsh0p/repos)
   - [Linux Automation - Ansible](https://github.com/p3tsh0p/repos)
-- <b>Hosting Services</b>
+- <b>Hosted Services</b>
   - [Family Ticket System](https://github.com/p3sh0p/repos)
   - [File Cloud Server](https://github.com/p3sh0p/repos)
   - [NTFY - System Push Notifications](https://github.com/p3sh0p/repos)
