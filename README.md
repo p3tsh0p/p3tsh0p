@@ -5,6 +5,7 @@
 - <b>Home Lab</b>
   - [Hybrid Active Directory Home Lab](https://github.com/p3tsh0p/repos)
   - [Configuring SIEM in Azure](https://github.com/p3tsh0p/repos)
+  - [Plan & Config Home Network](https://github.com/p3tsh0p/repos)
   - [Linux Automation - Ansible](https://github.com/p3tsh0p/repos)
 - <b>Hosted Services</b>
   - [Family Ticket System](https://github.com/p3sh0p/repos)
