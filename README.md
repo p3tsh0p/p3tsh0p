@@ -1,4 +1,4 @@
-<h1>Hi, I'm p3tsh0p! <br/><a href="https://github.com/p3tsh0p">Jr Sys Admin</a>, <a href="https://www.github.com/p3tsh0p">Part-Time I.T. Student</a> & <a href="https://www.github.com/p3tsh0p">Future Expert.</a></h1>
+<h1>Hi, I'm p3tsh0p! <br/><a href="https://github.com/p3tsh0p">Jr Sys Admin</a> | <a href="https://www.github.com/p3tsh0p">Part-Time I.T. Student</a> | <a href="https://www.github.com/p3tsh0p">Future Expert</a></h1>
 
 <h2>👨‍💻 Technical Projects:</h2>
 
