@@ -1,4 +1,4 @@
-<h1>Hi, I'm p3tsh0p! <br/><a href="https://github.com/p3tsh0p">Junior Sys Admin</a>, <a href="https://www.linkedin.com/">Cybersecurity Student</a> & <a href="https://www.medium.com/p3tsh0p">IT Professional</a></h1>
+<h1>Hi, I'm p3tsh0p! <br/><a href="https://github.com/p3tsh0p">Junior Sys Admin</a>, <a href="https://www.linkedin.com/">Part-Time I.T. Student</a> & <a href="https://www.medium.com/p3tsh0p">IT Professional</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
