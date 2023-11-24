@@ -32,7 +32,10 @@
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA</b>
-  - [A+](https://www.comptia.org/certifications/a) (In Progress: Core1 Projected October 2023)
+  - [A+](https://www.comptia.org/certifications/a)
+ 
+- <b>CISCO</b>
+  - [CCNA](https://www.comptia.org/certifications/a) (In Progress: Projected Decemeber 2023)
  
 - <b>Google</b>
   - [Cybersecurity Professional](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none) (In Progress)
