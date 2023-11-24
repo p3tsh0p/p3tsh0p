@@ -32,10 +32,10 @@
 <h2>📄 Certifications:</h2>
 
 - <b>CompTIA</b>
-  - [A+](https://www.comptia.org/certifications/a)
+  - [A+](https://www.credly.com/earner/earned/badge/6bcb39f5-9bbf-4559-b405-9fdf2d075eac)
  
 - <b>CISCO</b>
-  - [CCNA](https://www.comptia.org/certifications/a) (In Progress: Projected Decemeber 2023)
+  - [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna) (In Progress: Projected Decemeber 2023)
  
 - <b>Google</b>
   - [Cybersecurity Professional](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none) (In Progress)
