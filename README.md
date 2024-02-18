@@ -1,4 +1,4 @@
-<h1>Welcome, I'm p3tsh0p! <br/><a href="https://www.github.com/p3tsh0p">Junior Sys Admin</a> | <a href="https://www.github.com/p3tsh0p">Part-Time I.T. Student</a> | <a href="https://www.github.com/p3tsh0p">Future Expert</a></h1>
+<h1>Welcome, I'm p3tsh0p! <br/><a href="https://www.github.com/p3tsh0p">IT Support • System Admin</a> | <a href="https://www.github.com/p3tsh0p">Part-Time I.T. Student</a> | <a href="https://www.github.com/p3tsh0p">Future Expert</a></h1>
 
 <h2>👨‍💻 Technical Projects:</h2>
 <h3><b><i>***I'm currently working on documenting each project 1 by 1 either as a write up with screenshots or a video recording. Thank you for your patience***</i></b></h3>
@@ -35,10 +35,10 @@
   - [A+](https://www.credly.com/earner/earned/badge/6bcb39f5-9bbf-4559-b405-9fdf2d075eac)
  
 - <b>CISCO</b>
-  - [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna) (In Progress: Projected Decemeber 2023)
+  - [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna) (In Progress: Projected March 2024)
  
 - <b>Google</b>
-  - [Cybersecurity Professional](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none) (In Progress)
+  - [Cybersecurity Professional](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none) (Pending CCNA)
 
 <h2> 🤳 Connect with me:</h2>
 
