@@ -11,14 +11,14 @@
   - [Plan & Config Home Network](https://github.com/p3tsh0p/) (Pending)
   - [Linux Automation - Ansible](https://github.com/p3tsh0p/) (Pending)
 - <b>Hosted Services</b>
-  - [Family Ticket System](https://github.com/p3sh0p/) (Pending)
-  - [File Cloud Server](https://github.com/p3sh0p/) (Pending)
-  - [NTFY - System Push Notifications](https://github.com/p3sh0p/) (Pending)
-  - [Guacamole - Browser Remote Connect](https://github.com/p3sh0p/) (Pending)
+  - [Family Ticket System](https://github.com/p3tsh0p/) (Pending)
+  - [File Cloud Server](https://github.com/p3tsh0p/) (Pending)
+  - [NTFY - System Push Notifications](https://github.com/p3tsh0p/) (Pending)
+  - [Guacamole - Browser Remote Connect](https://github.com/p3tsh0p/) (Pending)
 - <b>PowerShell</b>
-  - [TBD](https://github.com/p3sh0p/)
+  - [TBD](https://github.com/p3tsh0p/)
 - <b>Python</b>
-  - [TBD](https://github.com/p3sh0p/)
+  - [TBD](https://github.com/p3tsh0p/)
     
 <h2>📚 Case Studies:</h2>
 
