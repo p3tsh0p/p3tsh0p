@@ -1,7 +1,7 @@
 <h1>Welcome, I'm p3tsh0p! <br/><a href="https://www.github.com/p3tsh0p">IT Support • System Admin</a> | <a href="https://www.github.com/p3tsh0p">Part-Time I.T. Student</a> | <a href="https://www.github.com/p3tsh0p">Future Expert</a></h1>
 
 <h2>👨‍💻 Technical Projects:</h2>
-<h3><b><i>***I'm currently working on documenting each project 1 by 1 either as a write up with screenshots or a video recording. Thank you for your patience***</i></b></h3>
+<h3><b><i>***I'm currently working on documenting each project 1 by 1 either as a write up with screenshots or a video recording in between cert studying. Thank you for your patience***</i></b></h3>
 
 - <b>Home Lab</b>
   - [Active Directory Home Lab](https://github.com/p3tsh0p/) (Currently Documenting)
