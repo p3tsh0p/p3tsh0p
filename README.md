@@ -33,13 +33,11 @@
 
 - <b>CompTIA</b>
   - [A+](https://www.credly.com/earner/earned/badge/6bcb39f5-9bbf-4559-b405-9fdf2d075eac)
- 
-- <b>CISCO</b>
-  - [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna) (In Progress: Projected March 2024)
+  - [Security+](https://www.comptia.org/certifications/security) (In Progress)
  
 - <b>Google</b>
-  - [Cybersecurity Professional](https://grow.google/intl/ALL_ca/certificates/cybersecurity/#?modal_active=none) (Pending CCNA)
-
+  - [Cybersecurity Professional](https://www.credly.com/earner/earned/badge/c990af46-361e-4374-b877-23a9cb219516)
+ 
 <h2> 🤳 Connect with me:</h2>
 
 - [Twitter](https://www.twitter.com/p3tsh0p_)
