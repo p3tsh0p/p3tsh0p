@@ -41,6 +41,6 @@
 <h2> 🤳 Connect with me:</h2>
 
 - [Twitter](https://www.twitter.com/p3tsh0p_)
-- [Medium](https://www.medium.com/@p3tsh0p)
+- [Medium](https://www.medium.com/@p3tsh0p)-->
 <!-- - [Youtube](https://www.youtube.com/) -->
--->
+
