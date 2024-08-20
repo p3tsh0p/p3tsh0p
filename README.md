@@ -4,10 +4,10 @@
 <h3><b><i>***I'm currently working on documenting each project 1 by 1 either as a write up with screenshots or a video recording in between cert studying. Thank you for your patience***</i></b></h3>
 
 - <b>Home Lab</b>
+  - [Cloud-SOC (Honeynet)](https://github.com/p3tsh0p/cloud-soc)
   - [Active Directory Home Lab](https://github.com/p3tsh0p/) (Currently Documenting)
   - [Hybrid Azure Active Directory Lab](https://github.com/p3tsh0p/) (Currently Documenting)
   - [Configuring L7 Load Balancer](https://github.com/p3tsh0p/) (Pending)
-  - [Configuring SIEM in Azure](https://github.com/p3tsh0p/) (Pending)
   - [Plan & Config Home Network](https://github.com/p3tsh0p/) (Pending)
   - [Linux Automation - Ansible](https://github.com/p3tsh0p/) (Pending)
 - <b>Hosted Services</b>
