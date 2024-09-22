@@ -4,7 +4,7 @@ I'm p3tsh0p, an IT Support Technician with a focus on systems administration and
 <h2>📚 Technical Projects:</h2>
 
 - <b>Home Lab</b>
-  - [Azure Honeynet & SOC Project](https://github.com/p3tsh0p/cloud-soc)
+  - [Azure Honeynet & SOC Project](https://github.com/p3tsh0p/azure-honeynet)
   
 <h2>📄 Certifications:</h2>
 
