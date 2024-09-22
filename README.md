@@ -1,5 +1,5 @@
 <h1>Welcome to my GitHub Portfolio</h1>
-I'm p3tsh0p, an IT Support Technician with a focus on systems administration and cybersecurity. I’m committed to continuous learning and skill development in the tech field. Please feel free to explore my repositories and connect if you have any questions.
+I'm p3tsh0p, an IT Support Technician with a focus on systems administration and cybersecurity. I’m committed to continuous learning and skill development in the tech field. Please feel free to explore my repositories and check out my [blog](https://fedsglow.com) for insights on cybersecurity, privacy, hacking, and other tech topics.
 
 <h2>📚 Technical Projects:</h2>
 
