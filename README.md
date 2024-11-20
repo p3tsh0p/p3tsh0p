@@ -19,6 +19,6 @@ I'm p3tsh0p, an IT Support Technician with a focus on systems administration and
 <h2> 🤳 Connect with me:</h2>
 
   - <b>Socials</b>
-    - [Blog](https://fedsglow.com)
+    - [Blog](https://fedsglow.com) (Coming Soon)
     - Twitter / X (Coming Soon)
     - Youtube (Coming Soon)
